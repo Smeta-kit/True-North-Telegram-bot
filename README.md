@@ -27,6 +27,5 @@ The bot is built with **Python** using **pyTelegramBotAPI (telebot)** and can be
 - pyTelegramBotAPI (telebot)
 - Docker & Docker Compose
 - Nginx
-- HTML / CSS / JavaScript
 
 ---
